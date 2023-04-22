@@ -1,0 +1,13 @@
+{
+  "name": "react-storybook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@divopsor:divopsor/react-storybook.git",
+  "author": "divopsor <divopsor@gmail.com>",
+  "license": "MIT",
+  "packageManager": "yarn@3.5.0",
+  "private": true,
+  "workspaces": [
+    "taskbox"
+  ]
+}
